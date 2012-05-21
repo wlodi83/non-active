@@ -1,0 +1,1 @@
+Script checks that all offers non-active in AMS all levels are in HasOffers statuses like: active, disabled, pending. Result is saved in XLS file
